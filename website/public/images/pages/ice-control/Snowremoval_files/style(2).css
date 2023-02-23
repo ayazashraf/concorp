@@ -1,0 +1,63 @@
+/* 
+ Theme Name:     United_Child
+ Author:         Mendoza Group
+ Author URI:     https://www.mendozagroup.ca
+ Template:       Divi
+ Version:        v3.0
+ Description:   A Child Theme built using the elegantmarketplace.com Child theme maker
+Developed by Andrew Palmer for Elegant Marketplace www.elegantmarketplace.com Free to use and duplicate as many times as you like
+ Wordpress Version: 4.9.6
+*/ 
+
+
+/* ----------- PUT YOUR CUSTOM CSS BELOW THIS LINE -- DO NOT EDIT ABOVE THIS LINE --------------------------- */ 
+
+
+.ms-alert-box.ms-alert-error {
+    border-top-color: #0278c7;
+    color: #0278c7;
+    background-color: #e6f3fc;
+	display: none;
+}
+	
+	.ms-alert-box.ms-alert-error {
+    border-top-color: #000;
+    color: #000;
+    background-color: #fff;
+	display: none;
+}
+	.ms-form.ms-no-labels p {
+    text-align: center;
+}
+.ms-membership-form-wrapper label {
+    display: inline;
+}
+.ms-membership-form-wrapper #user_pass {
+width: 15%;
+}
+	.ms-login-form + a {
+display: none;
+}
+
+.main_title {
+    display: none;
+}
+
+h1 {
+font-size: 27px;
+font-weight: 600;
+}
+	
+	h2 {
+font-size: 24px;
+}
+
+	h3 {
+font-size: 27px;
+}
+
+.ms-login-form .lost {
+    display: none !important;
+}
+
+
